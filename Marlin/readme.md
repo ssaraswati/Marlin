@@ -21,3 +21,6 @@ default_envs = STM32F103RC_btt_512K
 ```cpp
 #define DEFAULT_AXIS_STEPS_PER_UNIT { 80, 80, 400, 93 }
 ```
+
+
+AutoBuild : STM32F103RE_btt
